@@ -1,0 +1,10 @@
+.idea/.gitignore
+.idea/dbnavigator.xml
+.idea/intellij-javadocs-4.0.1.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/robotframework.iml
+.idea/vcs.xml
+result/log.html
+result/output.xml
+result/report.html
